@@ -1,4 +1,4 @@
-#About the project
+# About the project
 This project was created with the intent of learning, and it is not ready for use.
 Inside of the project files you will find the contract wrote in solidity script, the compile.js script, 
 the deploy.js script, you will needed to adjust the project and launch the contract in order to test it.
